@@ -32,13 +32,7 @@
         {{ partial "meta/date.html" .Date }}
       </span>
       {{ with .Params.status }}
-        <span>
-          {{ if eq . "Playing" }}
-            {{ partial "badge.html" "⏳ Playing" }}
-          {{ else if eq . "Played" }}
-            {{ partial "badge.html" "⌛️ Played" }}
-          {{ end }}
-        </span>
+        {{ partial "badge-status.html" . }}
       {{ end }}
     </div>
   {{ end }}

@@ -1,8 +1,7 @@
 ---
 title: "Apex Legends"
 date: "2025-12-14"
-featuredImage: "cover.webp"
-tags: ["windows", "FPS", "playing"]
+tags: ["windows", "FPS"]
 stars: 8
 status: "Playing"
 ---

@@ -1,0 +1,18 @@
+{{ $status := . }}
+
+<span class="flex cursor-pointer">
+  {{ if eq $status "Playing" }}
+    <span
+      class="rounded-md border border-neutral-300 px-1 py-[1px]
+             text-xs font-normal">
+      Playing
+    </span>
+
+  {{ else if eq $status "Played" }}
+    <span
+      class="rounded-md border border-neutral-300 px-1 py-[1px]
+             text-xs font-normal">
+      Played
+    </span>
+  {{ end }}
+</span>
