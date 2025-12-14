@@ -1,3 +1,3 @@
 # Rowlet
 
-My gamelog.
+My [gamelog](https://unifuu.github.io/rowlet/).
