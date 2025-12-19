@@ -1,7 +1,9 @@
 ---
-title: "Romance of the Three Kingdoms XIII"
+title: "Romance of the Three Kingdoms XII"
+subtitle: "三國志12"
 date: "2020-12-30"
 tags: ["Windows"]
+origin: 🇯🇵
 stars: 8
 status: "Played"
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Puzzle & Dragons"
+subtitle: "パズル＆ドラゴンズ"
 date: "2021-12-30"
 tags: ["iOS"]
+origin: 🇯🇵
 stars: 7
 status: "Played"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "BanG Dream! Girls Band Party!"
+subtitle: "バンドリ！ ガールズバンドパーティ！"
 date: "2023-12-30"
 tags: ["iOS"]
+origin: 🇯🇵
 status: "Played"
 ---
