@@ -1,6 +1,6 @@
 ---
-title: "Zenless Zone Zero"
-date: "2025-07-01"
+title: "Sword of Convallaria"
+date: "2024-12-01"
 tags: ["iOS", "Windows"]
 stars: 7
 status: "Played"

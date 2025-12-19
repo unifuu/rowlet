@@ -1,6 +1,6 @@
 ---
-title: "Zenless Zone Zero"
-date: "2025-07-01"
+title: "Heaven Burns Red"
+date: "2024-12-30"
 tags: ["iOS", "Windows"]
 stars: 7
 status: "Played"

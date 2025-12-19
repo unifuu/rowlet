@@ -1,7 +1,7 @@
 ---
 title: "Minecraft"
 date: "2025-05-30"
-tags: ["Windows", "Survival"]
+tags: ["Windows"]
 stars: 10
 status: "Played"
 ---

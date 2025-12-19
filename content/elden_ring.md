@@ -1,7 +1,7 @@
 ---
 title: "Elden Ring"
 date: "2025-05-01"
-tags: ["Windows", "ARPG"]
+tags: ["Windows"]
 stars: 8
 status: "Played"
 ---

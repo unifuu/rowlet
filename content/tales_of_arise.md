@@ -1,7 +1,7 @@
 ---
-title: "Dragon Quest XI: Echoes of an Elusive Age"
+title: "Tales of Arise"
 date: "2022-12-30"
 tags: ["Windows"]
-stars: 8
+stars: 7
 status: "Played"
 ---
