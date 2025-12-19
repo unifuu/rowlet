@@ -1,7 +1,7 @@
 ---
 title: "Xenoblade Chronicles 3"
 subtitle: "ゼノブレイド3"
-date: "2023-12-30"
+date: "2023-12-31"
 tags: ["Nintendo Switch"]
 origin: 🇯🇵
 stars: 7
