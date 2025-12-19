@@ -4,6 +4,6 @@ subtitle: "モンスターハンターライズ"
 date: "2022-12-31"
 tags: ["Nintendo Switch"]
 origin: 🇯🇵
-stars: 8
+stars: 9
 status: "Played"
 ---

@@ -1,0 +1,11 @@
+.thumbnail_card {
+  height: 120px;
+  overflow: hidden;
+}
+
+.thumbnail_card img {
+  position: relative;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
