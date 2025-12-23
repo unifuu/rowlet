@@ -1,3 +1,3 @@
-# Rowlet
+# Gengar
 
-My [gamelog](https://unifuu.github.io/rowlet/).
+My [gamelog](https://unifuu.github.io/gengar/).
