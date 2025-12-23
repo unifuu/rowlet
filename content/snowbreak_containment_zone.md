@@ -4,6 +4,6 @@ subtitle: "塵白禁域"
 date: "2022-12-31"
 tags: ["iOS", "Windows"]
 origin: 🇨🇳
-stars: 6
+stars: 5
 status: "Played"
 ---
