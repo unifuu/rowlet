@@ -5,3 +5,4 @@ Icon?
 public
 .hugo_build.lock
 _gen
+workspace.json
