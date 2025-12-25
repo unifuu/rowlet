@@ -1,7 +1,7 @@
 ---
 title: "Pokémon Legends: Z-A"
 subtitle: "Pokémon LEGENDS Z-A"
-date: "2025-12-14"
+date: "2025-12-25"
 tags: ["Nintendo Switch 2"]
 origin: 🇯🇵
 stars: 6

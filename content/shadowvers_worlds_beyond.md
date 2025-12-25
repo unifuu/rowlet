@@ -1,9 +1,9 @@
 ---
-title: "Shadowverse"
-subtitle: "シャドウバース"
-date: "2021-12-31"
+title: "Shadowverse: Worlds Beyond"
+subtitle: "シャドウバース ワールズビヨンド"
+date: "2025-12-01"
 tags: ["iOS", "Windows"]
 origin: 🇯🇵
-stars: 6
+stars: 7
 status: "Played"
 ---
