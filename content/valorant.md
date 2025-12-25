@@ -1,9 +1,9 @@
 ---
 title: "Valorant"
 subtitle: "VALORANT"
-date: "2024-12-31"
+date: "2025-12-25"
 tags: ["Windows"]
 origin: 🇺🇸
-stars: 6
-status: "Played"
+stars: 7
+status: "Playing"
 ---

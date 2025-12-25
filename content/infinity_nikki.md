@@ -1,7 +1,7 @@
 ---
-title: "Zenless Zone Zero"
-subtitle: "絕區零"
-date: "2024-12-31"
+title: "Infinity Nikki"
+subtitle: "無限暖暖"
+date: "2025-05-31"
 tags: ["iOS", "PlayStation 5", "Windows"]
 origin: 🇨🇳
 stars: 7
